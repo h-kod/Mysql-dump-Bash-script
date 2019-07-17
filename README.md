@@ -7,4 +7,4 @@
 # Çalıştırmak
 Bash dili ile yazılmıştır, Linux ortamlarında çalışır.
 Çalıştırmak için:Uçbirim(Konsol) ekranına indirilen backup.bash dosyasının yolunu yazın ve ENTER ile çalıştırın.
-*Örnek: root@root:~$ '/home/root/Masaüstü/backup.bash'*
+*Örnek: root@root:~$ bash backup.bash
